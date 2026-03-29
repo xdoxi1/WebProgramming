@@ -41,3 +41,5 @@ plt.show()
 * Probability Theory (University of Mahilyow)
 * Numerical Methods for ODEs (Coursera)
 * Scientific Computing with Python (freeCodeCamp)
+## **English Language**
+Upper-Intermediate (B2). Practice: Coursera courses, arXiv papers, coding tutorials.
