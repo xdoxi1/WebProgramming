@@ -29,3 +29,11 @@ y0, k, t, dt = 1.0, 0.1, 10, 0.01
 y = euler_method(y0, k, t, dt)
 plt.plot(np.linspace(0, t, len(y)), y)
 plt.show()
+```
+## **Experience & Projects**
+1. **CV Website** — Semantic HTML CV.\
+[View](cv.html) | [GitHub](https://github.com/xdoxi1/WebProgramming)
+2. **Population Dynamics** — Lotka-Volterra simulation. \
+[GitHub](https://github.com/xdoxi1)
+3. **Gaussian Elimination**  Linear solver. \
+[GitHub](https://github.com/xdoxi1)
