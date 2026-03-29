@@ -7,3 +7,8 @@
 * Location: Mahilyow, Mogilev, BY
 ## **Professional Summary**
 Motivated mathematics student from Mahilyow, Belarus, specializing in applied mathematics, probability theory, combinatorics, and numerical methods for biological modeling. Goal: apply Python simulations to population dynamics and differential equations. Strong analytical skills from projects in Euler's method and Gaussian elimination.
+## **Skills**
+* Programming: Python (numpy, scipy, matplotlib)
+* Frameworks/Tools: Jupyter Notebooks, Git
+* Math Methods: ODE solvers (Euler), linear algebra (Gaussian elimination), probability
+* Modeling: Population dynamics, stability analysis 
