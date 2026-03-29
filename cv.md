@@ -37,3 +37,7 @@ plt.show()
 [GitHub](https://github.com/xdoxi1)
 3. **Gaussian Elimination**  Linear solver. \
 [GitHub](https://github.com/xdoxi1)
+## **Courses & Training** 
+* Probability Theory (University of Mahilyow)
+* Numerical Methods for ODEs (Coursera)
+* Scientific Computing with Python (freeCodeCamp)
