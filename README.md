@@ -1,2 +1,2 @@
 # WebProgrammin
-https://xdoxi1.github.io/Markdown/cv
+https://github.com/xdoxi1/WebProgramming/blob/Markdown/cv.md
