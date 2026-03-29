@@ -12,3 +12,20 @@ Motivated mathematics student from Mahilyow, Belarus, specializing in applied ma
 * Frameworks/Tools: Jupyter Notebooks, Git
 * Math Methods: ODE solvers (Euler), linear algebra (Gaussian elimination), probability
 * Modeling: Population dynamics, stability analysis 
+## **Code Example**
+Euler's method for population growth ODE dy/dt = k*y
+```import numpy as np
+import matplotlib.pyplot as plt
+
+def euler_method(y0, k, t, dt):
+    n = int(t / dt)
+    y = np.zeros(n + 1)
+    y[0] = y0
+    for i in range(n):
+        y[i+1] = y[i] + k * y[i] * dt
+    return y
+
+y0, k, t, dt = 1.0, 0.1, 10, 0.01
+y = euler_method(y0, k, t, dt)
+plt.plot(np.linspace(0, t, len(y)), y)
+plt.show()
