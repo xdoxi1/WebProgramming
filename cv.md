@@ -43,3 +43,6 @@ plt.show()
 * Scientific Computing with Python (freeCodeCamp)
 ## **English Language**
 Upper-Intermediate (B2). Practice: Coursera courses, arXiv papers, coding tutorials.
+---
+### *© 2026 Maksim (xdoxi1). Mahilyow, Belarus.*
+![Photo](Photo.png)
